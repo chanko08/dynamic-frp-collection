@@ -1,5 +1,6 @@
 # Dynamic Collections in Functional Reactive Programming
-This is the follow along code I produced with this blog post.
+This is the follow along code I produced with 
+[this blog post](http://alexbechanko.com/dynamic-frp-elements.html).
 It describes two possible ways to manage collections of dynamic entities in a
 FRP framework.
 
